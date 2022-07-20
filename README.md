@@ -6,3 +6,4 @@ In this project we are given a Diabetes Data set consisting of following feature
 We have to predict whether a person is suffering from diabetes or not . Classification Task - Classify a person as 0 or 1 (Diabetic or Not) using logistic regression classifier. 
 dataset linl:https://www.kaggle.com/datasets/dpamgautam/diabetes-dataset
 click on above link and from there download diabetes dataset and upload on google colab before using this source code.
+In this diabetes Prediction model i got an accuracy of 79%.
